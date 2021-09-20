@@ -1,9 +1,9 @@
 # E-M-S (Employee Management System)
 This is to help manager/hr to maintain employees credential. By using this system they can track all the information of employees.
 
-To run this project clone it, and then
-For frontend =>
-i. npm i
+### To run this project clone it, and then
+_For frontend =>_
+npm i
 ii. npm run 
 
 For backend => 
