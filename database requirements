@@ -1,0 +1,24 @@
+Employee:
+name, gender, date of birth, email, employee_role, status, joining_date, designation, phone, team
+
+create, update, delete, details(leave summary), list(name, id)
+
+Teams:
+name, floor, room, is_active
+
+create, update, delete,  list_details
+
+Projects:
+name, teams, client, status
+
+create, update, delete, list_details
+
+Leave:
+employee, casual, sick, others
+
+create, list(employee_id, employee_name, casual, sick, others)
+
+Holidays:
+name, details, start_date, end_date, type, year
+
+create, update, delete, list(details)
